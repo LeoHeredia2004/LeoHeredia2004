@@ -1,8 +1,8 @@
-## Leonardo Herédia
+## Leonardo Gabriel Herédia
 
 <p>Computer Science student</p>
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
 <p align="left">
   Computer Science student from Positivo University
@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Minhas Habilidades
+### 🚀 My Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,rust,c,js,react,html,css,git,github,mysql&perline=11" />
@@ -21,14 +21,14 @@
 
 ---
 
-### 🌱 O que estou aprendendo
+### 🌱 What I'm Learning
 
-- Learning About: ** Blockchains, Cloud Computing, Rust **.
-- Desenvolvendo um projeto pessoal de ** Simple Blockchain Demonstration in Rust **.
+- Currently Learning: ** Blockchains, Cloud Computing and Rust **.
+- Developing a **simple Blockchain demonstration in Rust** as a personal project.
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Find Me!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/leonardo-gabriel-her%C3%A9dia-10b045279/" target="_blank">
