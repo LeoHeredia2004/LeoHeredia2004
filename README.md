@@ -23,7 +23,7 @@
 
 ### 🌱 What I'm Learning
 
-- Currently Learning: ** Blockchains, Cloud Computing and Rust **.
+- Currently Learning: **Blockchains, Cloud Computing and Rust**.
 - Developing a **simple Blockchain demonstration in Rust** as a personal project.
 
 ---
