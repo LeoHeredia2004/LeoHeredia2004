@@ -2,10 +2,6 @@
 
 <p>Computer Science student</p>
 
-<a href="URL_DO_SEU_LINKEDIN_AQUI">
-  <img align="right" height="150" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
-</a>
-
 ### 👨‍💻 Sobre Mim
 
 <p align="left">
